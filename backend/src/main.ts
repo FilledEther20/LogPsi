@@ -16,7 +16,6 @@ app.post("/api/v1/signup", async (req, res) => {
 
 //Login route
 app.post("/api/v1/login", async (req, res) => {
-
 });
 
 //Create content post route
